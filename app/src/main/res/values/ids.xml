@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="etNome" type="id" />
+    <item name="etSobrenome" type="id" />
+    <item name="etEmail" type="id" />
+    <item name="etSenha" type="id" />
+</resources>

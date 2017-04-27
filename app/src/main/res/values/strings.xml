@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">Fiap Notes</string>
+    <string name="app_name_cadastro">Fiap Notes - Dados da Conta</string>
+    <string name="nome">Nome</string>
+    <string name="logar">Acessar</string>
+    <string name="email"> Email</string>
+    <string name="senha"> Senha</string>
+    <string name="voltar">Fechar e Retornar</string>
+    <string name="valida_login">Preencha os dados de login corretamente!</string>
+    <string name="sobrenome">Sobrenome</string>
+    <string name="feminino">Feminino</string>
+    <string name="masculino">Masculino</string>
+    <string name="data_de_nascimento">Data de Nascimento</string>
+    <string name="gravar_dados">Gravar Dados</string>
+    <string name="carregar_dados">Carregar Dados</string>
+    <string name="verificar_dados">Verificar Dados</string>
+    <string name="excluir_dados">Excluir Dados</string>
+    <string name="excluir_arquivo">Excluir Arquivo</string>
+    <string name="gravar_arquivo">Gravar Arquivo</string>
+    <string name="ler_arquivo">Ler Arquivo</string>
+    <string name="fechar_e_retornar">Fechar e Retornar</string>
+    <string name="dados_conta_ok">Digite corretamente</string>
+    <string name="cadastro_ok">Cadastro efetuado com sucesso</string>
+    <string name="dados_login_ok">Dados do login ok</string>
+    <string name="gravar_arquivo_nok">Não foi possivel gravar arquivo</string>
+    <string name="arquivo_gravado">Arquivo gravado com sucesso</string>
+    <string name="ler_arquivo_hok">Não foi possivel ler o arquivo</string>
+    <string name="arquivo_excluido">Arquivo excluido com sucesso</string>
+    <string name="arquivo_nao_excluido">Arquivo não excluido</string>
+    <string name="cadastrar">Cadastrar</string>
+    <string name="dados_verificados">verificados os dados</string>
+    <string name="titulo">Titulo</string>
+    <string name="conteudo">Conteudo</string>
+    <string name="nota">"Nota: "</string>
+
+    <string-array name="tipoAssunto">
+        <item>Selecione Assunto</item>
+        <item>Assunto 1</item>
+        <item>Assunto 1</item>
+        <item>Assunto 1</item>
+        <item>Assunto 1</item>
+        <item>Assunto 1</item>
+    </string-array>
+</resources>
+
